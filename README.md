@@ -18,6 +18,8 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
   <a/>
     
    ### 🌟 🥰  I am familiar with
+    
+   <p align="center">
 
 ![linux][linux-icon] ![vscode][vscode-icon] ![vim][vim-icon]
 
