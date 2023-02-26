@@ -28,6 +28,7 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] 
 
 ![GitHub-Actions][github-action-icon] ![arduino-icon] ![raspberry-pi-icon]
+  <p/>
     
 
 [linux-icon]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
