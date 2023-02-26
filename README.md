@@ -3,7 +3,6 @@
 # Hi there! 👋 <br/>
 
 I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. I work in Computer vision and Robotics with a passion for the Natural Language Processing (NLP) area. My experience covers a range of programming languages and tools, including Python, C++, C and OpenCV, TensorFlow, Keras, Django.<br/>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/><br/>
 
 ## 📣  Connect with me!
 
@@ -54,3 +53,5 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 [upwork-icon]: https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white
     
 <p/>
+ <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/><br/>
+
