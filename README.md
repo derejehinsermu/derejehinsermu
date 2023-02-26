@@ -53,5 +53,8 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 [upwork-icon]: https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white
     
 <p/>
+    ### Dino 🦖
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/><br/>
 
