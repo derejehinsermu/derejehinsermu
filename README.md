@@ -11,7 +11,7 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/kiyuderee">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/>
   </a>
   
    
