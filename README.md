@@ -20,12 +20,9 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
    <p/>
 <br/>
     
-    <p/>
-   ### 🌟 🥰  I am familiar with
+ ### 🌟 🥰  I am familiar with
     
-   
-
-![linux][linux-icon] ![vscode][vscode-icon] ![vim][vim-icon]
+ ![linux][linux-icon] ![vscode][vscode-icon] ![vim][vim-icon]
 
 ![python][python-icon] ![cpp][cpp-icon] ![html][html-icon] ![css][css-icon] ![bootstrap][bootstrap-icon] ![shell-script][shell-script-icon]
 
