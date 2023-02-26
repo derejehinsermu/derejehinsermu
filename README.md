@@ -7,10 +7,9 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 #Connect with me!
 
 <p align="center">
-  
-  <a href="https://github.com/derejehinsermu?tab=followers"
-     <img src="https://camo.githubusercontent.com/e452514e7f93ee36273946ffbe675ca92b64d2a48350f3e930778219fbd55548/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f65646469656a616f7564653f6c6162656c3d54776974746572266c6f676f3d74776974746572267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565"/>
-  <a/>
+  <a href="[http://twitter.com/eddiejaoude](https://www.linkedin.com/in/dereje-hinsermu-519a26161/)">
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+  </a>
      
   
   
