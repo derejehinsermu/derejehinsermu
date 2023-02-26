@@ -15,12 +15,15 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
   </a>
   <a href="https://www.facebook.com/dereje.hinsermu">
     <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  <a/> <br/>
+  <a/>     
+    
+   <p/>
+<br/>
     
     <p/>
    ### 🌟 🥰  I am familiar with
     
-   <p align="center">
+   
 
 ![linux][linux-icon] ![vscode][vscode-icon] ![vim][vim-icon]
 
@@ -29,7 +32,6 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] 
 
 ![GitHub-Actions][github-action-icon] ![arduino-icon] ![raspberry-pi-icon]
-  <p/>
     
 
 [linux-icon]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
