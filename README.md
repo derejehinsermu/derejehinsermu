@@ -17,6 +17,7 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
     <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   <a/> <br/>
     
+    <p/>
    ### 🌟 🥰  I am familiar with
     
    <p align="center">
