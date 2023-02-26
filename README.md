@@ -2,4 +2,4 @@
 
 # Hi there! 👋 <br/>
 
-I'm Dereje Hinsermu. I'm Machine Learning Engineer with a passion for Natural Language Processing (NLP). My experience covers a range of programming languages and tools, including Python, C++, C and TensorFlow,Keras,Django.
+I'm Dereje Hinsermu. I'm Machine Learning Engineer,Computer vision and Robotics with a passion for Natural Language Processing (NLP). My experience covers a range of programming languages and tools, including Python, C++, C and TensorFlow,Keras,Django.
