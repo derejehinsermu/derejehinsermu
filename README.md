@@ -54,7 +54,7 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
     
 <p/>
     ### Dino 🦖
-
+![Dino](https://github.com/derejehinsermu/derejehinsermu/blob/main/dino.gif)
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/><br/>
 
