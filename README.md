@@ -8,14 +8,15 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dereje-hinsermu-519a26161/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/kiyuderee">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/dereje.hinsermu">
     <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   <a/>
+  <a href = "https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
   
   
 <p/>
