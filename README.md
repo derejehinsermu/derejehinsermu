@@ -21,7 +21,7 @@ I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. 
 
 ![linux][linux-icon] ![vscode][vscode-icon] ![vim][vim-icon]
 
-![python][python-icon] ![cpp][cpp-icon] ![html][html-icon] ![css][css-icon] ![bootstrap][bootstrap-icon] ![shell-script-icon]
+![python][python-icon] ![cpp][cpp-icon] ![html][html-icon] ![css][css-icon] ![bootstrap][bootstrap-icon] ![shell-script][shell-script-icon]
 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] 
 
