@@ -2,7 +2,7 @@
 
 # Hi there! 👋 <br/>
 
-I'm Dereje Hinsermu. I'm Computer engineer with three relevant work experience. I work in Computer vision and Robotics with a passion for the Natural Language Processing (NLP) area. My experience covers a range of programming languages and tools, including Python, C++, C and OpenCV, TensorFlow, Keras, Django.<br/>
+Generative AI Engineer with 2+ years of experience in Machine Learning, computer Vision, and Robotics with Computer Engineering background. Skilled in fine-tuning LLMs, developing RAG systems, and prompt engineering. Proficient in Python, vector databases, TensorFlow, and PyTorch. Seeking a research and development role to contribute to cutting-edge projects, collaborate with diverse teams, and advance Generative AI technologies for innovative real-world solutions..<br/>
 
 ## 📣  Connect with me!
 
