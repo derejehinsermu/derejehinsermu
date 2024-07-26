@@ -24,7 +24,11 @@ Generative AI Engineer with 2+ years of experience in Machine Learning, computer
     
  ![linux][linux-icon] ![vscode][vscode-icon] ![vim][vim-icon]
 
-![python][python-icon] ![cpp][cpp-icon] ![html][html-icon] ![css][css-icon] ![bootstrap][bootstrap-icon] ![shell-script][shell-script-icon]
+![python][python-icon] ![cpp][cpp-icon] ![html][html-icon] ![css][css-icon] ![shell-script][shell-script-icon]
+
+![Vector Stores][(Chroma, Pinecone), MongoDB],![LangChain][LangChain],![GPT][GPT],![Flask][Flask],![Streamlit][Streamlit]
+
+![AWS][AWS],![GCP][GCP],![Django][Django]
 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] 
 
