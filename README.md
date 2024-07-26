@@ -26,9 +26,9 @@ Generative AI Engineer with 2+ years of experience in Machine Learning, computer
 
 ![python][python-icon] ![cpp][cpp-icon] ![html][html-icon] ![css][css-icon] ![shell-script][shell-script-icon]
 
-![Vector Stores][(Chroma, Pinecone), MongoDB],![LangChain][LangChain],![GPT][GPT],![Flask][Flask],![Streamlit][Streamlit]
+![Vector Stores][vector-stores-icon], ![LangChain][langchain-icon], ![GPT][gpt-icon], ![Flask][flask-icon], ![Streamlit][streamlit-icon]
 
-![AWS][AWS],![GCP][GCP],![Django][Django]
+![AWS][aws-icon], ![GCP][gcp-icon], ![Django][django-icon], ![Ragas][ragas-icon] ![SQL][sql-icon]
 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] 
 
@@ -55,6 +55,20 @@ Generative AI Engineer with 2+ years of experience in Machine Learning, computer
 [arduino-icon]: https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white
 [raspberry-pi-icon]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi
 [upwork-icon]: https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white
+
+[vector-stores-icon]: https://img.shields.io/badge/Vector%20Stores-%2320C0F4?style=flat&logo=postgresql&logoColor=white
+[langchain-icon]: https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=langchain&logoColor=white
+[gpt-icon]: https://img.shields.io/badge/GPT-%2344BFC1.svg?style=flat&logo=openai&logoColor=white
+[flask-icon]: https://img.shields.io/badge/Flask-%000000.svg?style=flat&logo=flask&logoColor=white
+[streamlit-icon]: https://img.shields.io/badge/Streamlit-%2321B0D6.svg?style=flat&logo=streamlit&logoColor=white
+
+[aws-icon]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white
+[gcp-icon]: https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white
+[django-icon]: https://img.shields.io/badge/Django-%23092F37.svg?style=flat&logo=django&logoColor=white
+
+[ragas-icon]: https://img.shields.io/badge/Ragas-%23FF5722.svg?style=flat&logo=raspberry-pi&logoColor=white
+[sql-icon]: https://img.shields.io/badge/SQL-%234F5B93.svg?style=flat&logo=postgresql&logoColor=white
+
     
 <p/>
     
